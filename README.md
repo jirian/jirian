@@ -6,3 +6,5 @@
 - Node.js
 
 👔 **I work at [DotDot](https://dotdot.be)**
+
+📍 **I live in Prague, Czech Republic**
