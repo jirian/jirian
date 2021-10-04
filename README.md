@@ -2,3 +2,7 @@
 
 🖊️ **I write:**
 - Rust
+- React
+- Node.js
+
+👔 **I work at [DotDot](https://dotdot.be)**
