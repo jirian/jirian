@@ -1,4 +1,4 @@
-### Hey, I'm a web programmer based in Prague
+### Hey, I'm a software engineer based in Prague
 
 🖊️ **I write:**
 - Rust
@@ -6,6 +6,6 @@
 - Node.js
 - Python
 
-👔 **I work at [DotDot](https://dotdot.be)**
+👔 **I work at [nullable group](https://nullable.group)**
 
 📍 **I live in Prague, Czech Republic**
