@@ -1,11 +1,12 @@
-### Hey, I'm a software engineer based in Prague
+### Hey, I'm Jiri!
 
 🖊️ **I write:**
+- Python
+- C#
 - Rust
 - React
 - Node.js
-- Python
 
 👔 **I work at [nullable group](https://nullable.group)**
 
-📍 **I live in Prague, Czech Republic**
+📍 **I live in Lausanne, Switzerland**
